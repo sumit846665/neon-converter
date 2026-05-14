@@ -1,0 +1,16 @@
+{
+  "name": "FileVerse AI",
+  "short_name": "FileVerse",
+  "description": "AI-powered universal file toolkit and neon converter workspace.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070912",
+  "theme_color": "#070912",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
