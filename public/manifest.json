@@ -1,7 +1,7 @@
 {
-  "name": "FileVerse AI",
-  "short_name": "FileVerse",
-  "description": "AI-powered universal file toolkit and neon converter workspace.",
+  "name": "Neon Converter",
+  "short_name": "NeonConvert",
+  "description": "Free PDF tools, image converter, scan cleanup, and OCR.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#070912",
